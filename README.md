@@ -85,8 +85,8 @@ npm start
 ## 📞 Contact  
 
 For any issues, reach out via:  
-📧 Email: your-email@example.com  
-🌐 GitHub: [your-username](https://github.com/TiTANWASTAKEN)  
+📧 Email: kumar.rithik990@gmail.com  
+🌐 GitHub: TiTANWASTAKEN(https://github.com/TiTANWASTAKEN)  
 
 ⭐ **Star this repo if you found it useful!** ⭐  
 
