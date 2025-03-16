@@ -53,7 +53,7 @@
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/TiTANWASTAKEN/DaakSaab.git
-cd doctors-portal
+cd DaakSaab
 ```
 
 ### 2️⃣ Backend Setup  
