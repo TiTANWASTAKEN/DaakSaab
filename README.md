@@ -52,7 +52,7 @@
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/doctors-portal.git
+git clone https://github.com/TiTANWASTAKEN/DaakSaab.git
 cd doctors-portal
 ```
 
