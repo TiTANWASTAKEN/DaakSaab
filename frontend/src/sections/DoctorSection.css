@@ -1,0 +1,18 @@
+.doctor-section {
+    padding: 2rem;
+    background: #f8f9fa;
+    text-align: center;
+  }
+  
+  .doctor-section h2 {
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .doctor-card-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
