@@ -4,12 +4,12 @@ import 'react-toastify/dist/ReactToastify.css';
 export const showToast = (message, type = 'info') => {
     const options = {
         position: "top-right",
-        autoClose: 3000, // Closes after 3 seconds
+        autoClose: 3000, 
         hideProgressBar: false,
         closeOnClick: true,
         pauseOnHover: true,
         draggable: true,
-        theme: "dark", // Change to "light" if needed
+        theme: "dark", 
     };
 
     switch (type) {
